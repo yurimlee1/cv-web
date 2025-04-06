@@ -24,8 +24,7 @@ export const ContactSection = () => {
             <div>
               <button className="text-white bg-gray-900 inline-flex items-center px-6 h-12 rounded-xl gap-2 w-max border border-gray-900">
                 <span className="font-semibold">
-                  {/* <a href={`mailto:${process.env.EMAIL}`}> */}
-                  <a href={`mailto:yurimlee@nanofry.com`}>
+                  <a href={`mailto:${process.env.EMAIL}`}>
                   Contact Me
                   </a>
                 </span>
