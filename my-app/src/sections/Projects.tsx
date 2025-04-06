@@ -67,7 +67,7 @@ const portfolioProjects = [
     title: "Interactive 3D Computer",
     results: [
       { title: "Used Three.js " },
-      { title: "Implemented" },
+      { title: "Implemented 3D object reacting to cursor moves" },
       // { title: "Increased mobile traffic by 35%" },
     ],
     link: "https://leescomputer.nanofry.com",
